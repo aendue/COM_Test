@@ -1,0 +1,9 @@
+D:\Progs\COM_Test\COM_Test\bin\Debug\COM_Test.exe.config
+D:\Progs\COM_Test\COM_Test\bin\Debug\COM_Test.exe
+D:\Progs\COM_Test\COM_Test\bin\Debug\COM_Test.pdb
+D:\Progs\COM_Test\COM_Test\obj\Debug\COM_Test.csprojResolveAssemblyReference.cache
+D:\Progs\COM_Test\COM_Test\obj\Debug\COM_Test.Form1.resources
+D:\Progs\COM_Test\COM_Test\obj\Debug\COM_Test.Properties.Resources.resources
+D:\Progs\COM_Test\COM_Test\obj\Debug\COM_Test.csproj.GenerateResource.Cache
+D:\Progs\COM_Test\COM_Test\obj\Debug\COM_Test.exe
+D:\Progs\COM_Test\COM_Test\obj\Debug\COM_Test.pdb
